@@ -1,1 +1,30 @@
 /* Add CSS Styling */
+
+.avatar.proportioned{
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted{
+    width: 200px;
+    height: 400px;
+}
+
+.container{
+    background-color: blueviolet;
+}
+
+.container .box2{
+    color: blue;
+    background-color: black;
+    font-size: 40px;
+  }
+
+
+.box2{
+    font-weight: bold;
+  }
+
+
+
+
